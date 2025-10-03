@@ -390,7 +390,7 @@ img {
 .footer {
   display: flex;
   background: #2c70ff;
-  height: 200px;
+  height: 100px;
   align-items: center;
 }
 
@@ -400,4 +400,5 @@ img {
   font-size: 1.25em;
   color: #122ab2;
 }
+
 
